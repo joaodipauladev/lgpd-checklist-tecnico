@@ -23,7 +23,7 @@ Guia prático, escrito do ponto de vista de quem desenvolve e opera sistemas, pa
 | Capítulo | Tema |
 |---|---|
 | [01](docs/01-mapeamento-de-dados.md) | Mapeamento de dados: o que você coleta, onde guarda e por quê |
-| 02 | Controle de acesso (em breve) |
+| [02](docs/02-controle-de-acesso.md) | Controle de acesso: quem pode ver e alterar o quê |
 | 03 | Criptografia (em breve) |
 | 04 | Logs e monitoramento (em breve) |
 | 05 | Backup e retenção (em breve) |
