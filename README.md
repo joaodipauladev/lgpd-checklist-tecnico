@@ -28,7 +28,7 @@ Guia prático, escrito do ponto de vista de quem desenvolve e opera sistemas, pa
 | [04](docs/04-logs-e-monitoramento.md) | Logs e monitoramento: registrar, proteger e vigiar |
 | [05](docs/05-backup-e-retencao.md) | Backup e retenção: não perder o dado e não guardar além do necessário |
 | [06](docs/06-resposta-a-incidentes.md) | Resposta a incidentes: conter, avaliar, comunicar e aprender |
-| 07 | Direitos do titular (em breve) |
+| [07](docs/07-direitos-do-titular.md) | Direitos do titular: receber, corrigir e atender pedidos no prazo |
 
 ## Referências normativas
 
